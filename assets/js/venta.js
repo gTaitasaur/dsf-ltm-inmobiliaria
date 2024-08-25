@@ -1,7 +1,7 @@
 const propiedades_venta = [
     {
       nombre: 'Apartamento de lujo en zona exclusiva',
-      src: '../imgs/prop1.jpg',
+      src: '../assets/imgs/prop1.jpg',
       descripcion: 'Este apartamento de lujo está ubicado en una exclusiva zona residencial',
       ubicacion: '123 Luxury Lane, Prestige Suburb, CA 45678',
       habitaciones: '4 Habitaciones',
@@ -12,7 +12,7 @@ const propiedades_venta = [
     },
     {
       nombre: 'Apartamento acogedor en la montaña',
-      src: '../imgs/prop2.jpg',
+      src: '../assets/imgs/prop1.jpg',
       descripcion: 'Este apartamento acogedor está situado en lo alto de una montaña con una impresionando vista',
       ubicacion: '789 Mountain Road, Summit Peaks, CA 23456',
       habitaciones: '2 Habitaciones',
@@ -23,7 +23,7 @@ const propiedades_venta = [
     },
     {
       nombre: 'Penthouse de lujo con terraza panorámica',
-      src: '../imgs/prop3.jpg',
+      src: '../assets/imgs/prop1.jpg',
       descripcion: 'Este penthouse de lujo ofrece una terraza panorámica con vistas espectaculares',
       ubicacion: '587 Skyline Avenue, Skyview City, CA 56789',
       habitaciones: '3 Habitaciones',
