@@ -1,7 +1,7 @@
 const propiedades_venta = [
     {
       nombre: 'Apartamento de lujo en zona exclusiva',
-      src: '../assets/imgs/prop1.jpg',
+      src: './assets/imgs/prop1.jpg',
       descripcion: 'Este apartamento de lujo está ubicado en una exclusiva zona residencial',
       ubicacion: '123 Luxury Lane, Prestige Suburb, CA 45678',
       habitaciones: '4 Habitaciones',
@@ -12,7 +12,7 @@ const propiedades_venta = [
     },
     {
       nombre: 'Apartamento acogedor en la montaña',
-      src: '../assets/imgs/prop2.jpg',
+      src: './assets/imgs/prop2.jpg',
       descripcion: 'Este apartamento acogedor está situado en lo alto de una montaña con una impresionando vista',
       ubicacion: '789 Mountain Road, Summit Peaks, CA 23456',
       habitaciones: '2 Habitaciones',
@@ -23,7 +23,7 @@ const propiedades_venta = [
     },
     {
       nombre: 'Penthouse de lujo con terraza panorámica',
-      src: '../assets/imgs/prop3.jpg',
+      src: './assets/imgs/prop3.jpg',
       descripcion: 'Este penthouse de lujo ofrece una terraza panorámica con vistas espectaculares',
       ubicacion: '587 Skyline Avenue, Skyview City, CA 56789',
       habitaciones: '3 Habitaciones',
@@ -37,7 +37,7 @@ const propiedades_venta = [
   const propiedades_alquiler = [
     {
       nombre: 'Apartamento en el centro de la ciudad',
-      src: '../assets/imgs/prop4.jpg',
+      src: './assets/imgs/prop4.jpg',
       descripcion: 'Este apartamento de 2 habitaciones está ubicado en el corazón de la ciudad, cerca de todo.',
       ubicacion: '123 Main Street, Anytown, CA 01234',
       habitaciones: '2 Habitaciones',
@@ -48,7 +48,7 @@ const propiedades_venta = [
     },
     {
       nombre: 'Apartamento luminoso con vista al mar',
-      src: '../assets/imgs/prop5.jpg',
+      src: './assets/imgs/prop5.jpg',
       descripcion: 'Este hermoso apartamento ofrece una vista impresionante al mar',
       ubicacion: '456 Ocean Avenue, Seaside Town, CA 56789',
       habitaciones: '3 Habitaciones',
@@ -59,7 +59,7 @@ const propiedades_venta = [
     },
     {
       nombre: 'Condominio moderno en zona residencial',
-      src: '../assets/imgs/prop6.webp',
+      src: './assets/imgs/prop6.webp',
       descripcion: 'Este elegante condominio moderno está ubicado en una tranquila zona residencial',
       ubicacion: '123 Main Street, Anytown, CA 91234',
       habitaciones: '3 Habitaciones',
